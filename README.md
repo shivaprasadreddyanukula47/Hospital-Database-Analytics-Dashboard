@@ -6,8 +6,11 @@ The goal of this project is to analyze hospital operational data and create an i
  <a href = "https://github.com/shivaprasadreddyanukula47/Hospital-Database-Analytics-Dashboard/tree/main">Dataset</a>
 ## Questions (KPIs / Insights)
 551K – Total Revenue generated through treatments and services.
+
 2.76K – Average Cost per Patient
+
 200 – Total Appointments recorded
+
 45 – Average Patient Age
 
 These KPIs are powered through DAX measures for dynamic calculation and filtering.
