@@ -47,4 +47,13 @@ Highest number of doctors are in Pediatrics (5), followed by Dermatology (3) and
 This supports workforce planning and specialization balancing.
 
 ## Dashboard 
-<a href ="https://github.com/shivaprasadreddyanukula47/Hospital-Database-Analytics-Dashboard/blob/main/Dashboard.png">dashboard link</a>
+<a href ="https://github.com/shivaprasadreddyanukula47/Hospital-Database-Analytics-Dashboard/blob/main/Dashboard.png">link</a>
+
+## Process:
+I cleaned and prepared the hospital data, built the data model.
+created DAX measures for key metrics, and designed an interactive Power BI dashboard
+To visualize revenue, appointments, treatment insights, and patient demographics.
+
+## DASHBOARD
+<img width="1288" height="732" alt="Dashboard" src="https://github.com/user-attachments/assets/4de97a05-93a3-4009-8f1d-a0cd6285ad6a" />
+
