@@ -45,3 +45,6 @@ This helps understand what services bring the most footfall.
 7. Doctor Specialization Distribution
 Highest number of doctors are in Pediatrics (5), followed by Dermatology (3) and Oncology (2).
 This supports workforce planning and specialization balancing.
+
+## Dashboard 
+<a href =
