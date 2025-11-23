@@ -47,4 +47,4 @@ Highest number of doctors are in Pediatrics (5), followed by Dermatology (3) and
 This supports workforce planning and specialization balancing.
 
 ## Dashboard 
-<a href =
+<a href ="https://github.com/shivaprasadreddyanukula47/Hospital-Database-Analytics-Dashboard/blob/main/Dashboard.png">dashboard link</a>
