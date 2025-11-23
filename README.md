@@ -5,6 +5,12 @@ The goal of this project is to analyze hospital operational data and create an i
 ## Data used
  <a href = "https://github.com/shivaprasadreddyanukula47/Hospital-Database-Analytics-Dashboard/tree/main">Dataset</a>
 ## Questions (KPIs / Insights)
+551K – Total Revenue generated through treatments and services.
+2.76K – Average Cost per Patient
+200 – Total Appointments recorded
+45 – Average Patient Age
+
+These KPIs are powered through DAX measures for dynamic calculation and filtering.
  Major Insights From the Dashboard
 1. Treatment Cost Analysis
 Chemotherapy (129K), MRI (116K), and X-Ray (111K) contribute the highest revenue.
