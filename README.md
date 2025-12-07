@@ -61,7 +61,7 @@ To visualize revenue, appointments, treatment insights, and patient demographics
 
 This Power BI Hospital Dashboard delivers a clear, actionable view of hospital performance using dynamic DAX-driven KPIs, visual trends, and category-wise analysis. It helps management understand revenue drivers, patient behavior, demand for treatments, and department-level performance—leading to better planning and improved patient service outcomes.
 ## 👨‍💻 Developed By
-### **Shiva Prasad Reddy Anukula**
+### **Shiva Reddy Anukula**
 
 
 
